@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Pen testing, Network Engineering, System Administration and Data Science<br>💬 Ask me about anything related to information technology<br>📫 How to reach me bsudiptamm@gmail.com or click the social buttons</p>
+<p align="left">🌱 I’m currently learning <b>Pen testing, Network Engineering, System Administration and Data Science</b><br>💬 Ask me about anything related to <b>information technology</b><br>📫 Reach me at <b><i>bsudiptamm@gmail.com</i></b> or click the buttons below</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">Language's & Tools</p>
+<p align="center"><b>Language's & Tools</b></p>
 
 ###
 
