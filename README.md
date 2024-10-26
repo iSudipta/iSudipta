@@ -76,16 +76,12 @@
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJob2x0azc2bG5yeHk0c3BnbXI3azlqeTgwdW05aTI5ZWl3cDJkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.webp"  />
-
-###
-
 <img src="https://raw.githubusercontent.com/iSudipta/iSudipta/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG0wcTN5cXRlZ2JxN2d3NzI0dmJyem0zc2Z6NzB1ZjFpZ2x1ZHkwNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaRZyxBaUCO2u37k96/giphy.webp"  />
+  <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJob2x0azc2bG5yeHk0c3BnbXI3azlqeTgwdW05aTI5ZWl3cDJkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.webp"  />
 </div>
 
 ###
